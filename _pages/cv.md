@@ -7,10 +7,10 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+#{% include base_path %}
 Under Construction
 ======
-<div style='display: none'>
+<!--
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
@@ -59,4 +59,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
-</div>
+-->
