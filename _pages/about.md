@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Welcome"
+excerpt: "Welcomee"
 author_profile: true
 redirect_from: 
   - /about/
@@ -10,7 +10,7 @@ redirect_from:
 
 Hello, I'm Shaoran Li, a forth year PhD student at ECE Department, Virginia Tech supervised by [Dr. Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html). I belong to the [Complex Networks and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/index.html). Feel free to contact me if you have any questions.
 
-Biography
+About me
 ======
 I received the B.S. degree (Honors Program) from Southeast University, Nanjing, China, in 2014 and the M.S. degree from the Beijing University of Posts and  Telecommunications (BUPT), Beijing, China, in 2017. I am currently working toward my Ph.D. degree at Virginia Tech, Blacksburg, VA, USA. My research interests are algorithm design and implementation for wireless networks. I'm particularly interested in handling uncertainty in wireless communications and networking area. In 2019, my paper "[Optimal Power Control with Channel Uncertainty in Ad Hoc Networks](https://ieeexplore.ieee.org/abstract/document/9020876)" won the Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program.
 
