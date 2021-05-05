@@ -6,39 +6,16 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Under Construction
-======
-<!--
-{% include base_path %}
--->
 
-<!--
+{% include base_path %}
+
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. Student, Electrical Engineering, Virignia Tech, Blacksburg, USA, Aug. 2017 - Present
+* M.S., Information and COmmunication Engineering, Beijing University of Posts and Telecommunications (BUPT), Beijing, China, Sept. 2014 - Apr. 2017
+* B.E. (Honors Program), Information Engineering, Southeast University, Nanjing, China, Spet. 2010 - June 2014
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -46,11 +23,28 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+
+Honors and Awards
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+* Prasad Scholarship, Aug. 2019--May 2020
+* Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program, Dec. 2019
+* Silver Medal Award in the First 5G Algorithm Innovation Competition by the InnovateAsia FPGA Design Contest (4/184), Dec. 2015
+* Third Prize in National Postgraduate Mathematics Contest in Modeling, Nov. 2015
+* Top Ten Annual Individuals, Dec. 2012
+  
+  
+Skills
+======
+* Experienced knowledge in wireless networking and good communication skills 
+* Programming Language: C/C++, Python, CUDA, Matlab, and Verilog HDL
+* Software: Visual Studio, Spyder, Matlab, Modelsim, Quartus, and Vivado
+
+  
+# Talks
+# ======
+#  <ul>{% for post in site.talks %}
+#    {% include archive-single-talk-cv.html %}
+#  {% endfor %}</ul>
   
 Teaching
 ======
@@ -58,7 +52,6 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
--->
+# Service and leadership
+# ======
+# Currently signed in to 43 different slack teams
