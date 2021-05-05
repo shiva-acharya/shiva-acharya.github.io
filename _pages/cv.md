@@ -38,20 +38,10 @@ Skills
 * Experienced knowledge in wireless networking and good communication skills 
 * Programming Language: C/C++, Python, CUDA, Matlab, and Verilog HDL
 * Software: Visual Studio, Spyder, Matlab, Modelsim, Quartus, and Vivado
-
-  
-# Talks
-# ======
-#  <ul>{% for post in site.talks %}
-#    {% include archive-single-talk-cv.html %}
-#  {% endfor %}</ul>
   
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-# Service and leadership
-# ======
-# Currently signed in to 43 different slack teams
+
