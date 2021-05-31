@@ -1,9 +1,9 @@
 ---
-title: "Anti-Aging Scheduling in Single-Server Queues: A Systematic and Comparative Study"
+title: "Coping Uncertainty in Coexistence via Exploitation of Interference Threshold Violation"
 collection: publications
 permalink: /publications/JCN_AoI
-date: 2021-02-01
-venue: 'Journal of Communications and Networks (accepted)'
+date: July 2019
+venue: 'ACM MobiHoc'
 paperurl: 
 citation:
 ---
