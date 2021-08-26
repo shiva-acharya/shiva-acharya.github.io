@@ -1,8 +1,8 @@
 ---
 title: "A Worst-Case Approximate Analysis of Peak Age-of-Information via Robust Queueing Approach"
 collection: publications
-permalink: /publications/INFOCOM2021_AoI
-excerpt: '[Download paper here](https://zhongdong1994.github.io/files/Approximte_Robust-Queueing_Analysis_of_PAoI.pdf)'
+permalink: /publications/infocom21_AoI
+# excerpt: '[Download paper here](https://zhongdong1994.github.io/files/Approximte_Robust-Queueing_Analysis_of_PAoI.pdf)'
 date: 2021-05-01
 venue: 'Proceedings of IEEE INFOCOM 2021'
 paperurl: 
