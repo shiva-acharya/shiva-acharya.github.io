@@ -1,7 +1,8 @@
 ---
 title: "Coping Uncertainty in Coexistence via Exploitation of Interference Threshold Violation"
 collection: publications
-permalink: /publications/JCN_AoI
+permalink: /publications/mobihoc2019_ECR
+excerpt:
 date: July 2019
 venue: 'ACM MobiHoc'
 paperurl: 
