@@ -12,7 +12,7 @@ Hello, I'm Shaoran Li, a fifth-year Ph.D. student at ECE Department, Virginia Te
 
 About me
 ======
-I received the B.E. degree (Honors Program) from Southeast University, Nanjing, China, in 2014 and the M.S. degree from the Beijing University of Posts and  Telecommunications (BUPT), Beijing, China, in 2017. I am currently working toward my Ph.D. degree at Virginia Tech, Blacksburg, VA, USA. My research interests are algorithm design and implementation for wireless networks.
+I received the B.E. degree (Honors Program) from Southeast University, Nanjing, China, in 2014 and the M.S. degree from the Beijing University of Posts and  Telecommunications (BUPT), Beijing, China, in 2017. I am currently working toward my PhD degree at Virginia Tech, Blacksburg, VA, USA. My research interests are algorithm design and implementation for wireless networks.
 
 Highlights
 ======
