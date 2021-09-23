@@ -29,6 +29,6 @@ I also closely collaborate with my colleagues to work on Age of Information, MIM
 
 {% include base_path %}
 
-{% for post in site.publicationscoauthor reversed %}
+{% for post in site.posts reversed %}
   {% include archive-single.html %}
 {% endfor %}
