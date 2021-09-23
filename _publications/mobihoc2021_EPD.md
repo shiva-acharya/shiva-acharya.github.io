@@ -3,7 +3,7 @@ title: "Task Offloading with Uncertain Processing Cycles"
 collection: publications
 date: 2021-07-26
 excerpt: ''
-venue: 'ACM MobiHoc 2021'
+venue: 'ACM MobiHoc'
 permalink: /publications/mobihoc2021_EPD
 paperurl: 
 citation:
