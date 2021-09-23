@@ -2,7 +2,7 @@
 title: "A Real-Time Solution for Underlay Coexistence with Channel Uncertainty"
 collection: publications
 permalink: /publications/globecom19_GUC
-excerpt: 'Read More'
+excerpt: ''
 date: 2019-12-03
 venue: 'IEEE GLOBECOM'
 paperurl: 
