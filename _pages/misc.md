@@ -1,10 +1,10 @@
 ---
-permalink: /markdown/
+permalink: /misc/
 title: "Other Activities"
 author_profile: true
 redirect_from: 
   - /md/
-  - /markdown.html
+  - /misc.html
 ---
 
 ## Under Construction
