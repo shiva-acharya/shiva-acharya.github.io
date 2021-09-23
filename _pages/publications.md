@@ -9,7 +9,7 @@ author_profile: true
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
 
-### **Summary** 
+## **Summary** 
 
 My research interests are algorithm design and implementation for wireless networks. I’m particularly interested in the following two aeras:
 - Handling uncertainty: Provide probabilistic guanratees in presense of random network parameters without distribution knowledge. E.g., Provide probabilistic interference threshold guarantee using the mean and covariance of random channcel gains.
@@ -17,7 +17,7 @@ My research interests are algorithm design and implementation for wireless netwo
 
 I also closely collaborate with my colleagues to work on Age of Information, MIMO, Faster-than-Nyquist (FTN) systems. In 2019, I received the Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=utvZzaAAAAAJ&hl=en).
 
-### **First-authored**
+## **First-authored**
 
 {% include base_path %}
 
@@ -25,7 +25,7 @@ I also closely collaborate with my colleagues to work on Age of Information, MIM
   {% include archive-single.html %}
 {% endfor %}
 
-### **Co-authored**
+## **Co-authored**
 
 - "On scheduling with AoI violation tolerance", published in _IEEE INFOCOM_, 2021
 - "Minimizing AoI in a 5G-based IoT Network under Varying Channel Conditions", published in _IEEE Internet of Things Journal_, 2021
