@@ -15,7 +15,7 @@ author_profile: true
 
 I also closely collaborate with my colleagues to work on Age of Information, MIMO, Faster-than-Nyquist (FTN) systems. In 2019, I received the Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program. You can also find my articles on [my Google Scholar profile](https://scholar.google.com/citations?user=utvZzaAAAAAJ&hl=en).
 
-**First-authored:**
+## **First-authored:**
 
 {% include base_path %}
 
@@ -23,10 +23,10 @@ I also closely collaborate with my colleagues to work on Age of Information, MIM
   {% include archive-single.html %}
 {% endfor %}
 
-**Co-authored:**
+## **Co-authored:**
 
 {% include base_path %}
 
-{% for post in site.publications_coauthor reversed %}
+{% for post in site.publicationscoauthor reversed %}
   {% include archive-single.html %}
 {% endfor %}
