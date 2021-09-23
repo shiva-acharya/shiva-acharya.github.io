@@ -8,23 +8,23 @@ redirect_from:
 ---
 
 {% include base_path %}
+Download my full CV [here](hj)
 
-
-Education
+### Education
 ======
 * Ph.D. Student, Electrical Engineering, Virignia Tech, Blacksburg, USA, Aug. 2017 - Present
 * M.S., Information and COmmunication Engineering, Beijing University of Posts and Telecommunications (BUPT), Beijing, China, Sept. 2014 - Apr. 2017
 * B.E. (Honors Program), Information Engineering, Southeast University, Nanjing, China, Spet. 2010 - June 2014
 
 
-Publications
+### Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 
-Honors and Awards
+### Honors and Awards
 ======
 * Prasad Scholarship, Aug. 2019--May 2020
 * Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program, Dec. 2019
@@ -33,13 +33,13 @@ Honors and Awards
 * Top Ten Annual Individuals, Dec. 2012
   
   
-Skills
+### Skills
 ======
 * Experienced knowledge in wireless networking and good communication skills 
 * Programming Language: C/C++, Python, CUDA, Matlab, and Verilog HDL
 * Software: Visual Studio, Spyder, Matlab, Modelsim, Quartus, and Vivado
   
-Teaching
+### Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
