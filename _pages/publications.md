@@ -25,10 +25,15 @@ I also closely collaborate with my colleagues to work on Age of Information, MIM
   {% include archive-single.html %}
 {% endfor %}
 
-### **Co-authored:**
+### **Co-authored**
 
-{% include base_path %}
-
-{% for post in site.posts reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- "On scheduling with AoI violation tolerance", published in _IEEE INFOCOM_, 2021
+- "Minimizing AoI in a 5G-based IoT Network under Varying Channel Conditions", published in _IEEE Internet of Things Journal_, 2021
+- "AoI Scheduling with Maximum Thresholds", published in _IEEE INFOCOM_, 2020
+- "GPU: A New Enabling Platform for Real-Time Optimization in Wireless Networks", published in _IEEE Network_, 2020
+- "A deep-reinforcement-learning-based approach to dynamic eMBB/URLLC multiplexing in 5G NR", published in _IEEE Internet of Things Journal_, 2020
+- "Minimizing age of information under general models for IoT data collection", published in _IEEE Transactions on Network Science and Engineering_, 2019
+- "A general model for minimizing age of information at network edge", published in _IEEE INFOCOM_, 2019
+- "To cancel or not to cancel: Exploiting interference signal strength in the eigenspace for efficient MIMO DoF utilization", published in _IEEE INFOCOM_, 2019
+- "GPF: A GPU-based Design to Achieve $\sim$100 $\mu$s Scheduling for 5G NR", published in _ACM MobiCom_, 2018
+- "A self-adaptive algorithm of carrier frequency offset estimate in wireless network", published in _IEEE ICCWAMTIP_, 2015
