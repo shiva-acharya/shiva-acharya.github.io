@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-Download my full CV [here](hj)
+Download my full CV [here](https://shaoranli.github.io/files/ShaoranLi_CV.pdf)
 
 ### Education
 ======
