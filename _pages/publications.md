@@ -27,6 +27,7 @@ I also closely collaborate with my colleagues to work on Age of Information, MIM
 
 ## **Co-authored**
 
+- "GPF+: A novel ultrafast GPU-based proportional fair scheduler for 5G NR", published in _IEEE/ACM Transactions on Networking_, 2021, to appear
 - "On scheduling with AoI violation tolerance", published in _IEEE INFOCOM_, 2021
 - "Minimizing AoI in a 5G-based IoT network under varying channel conditions", published in _IEEE Internet of Things Journal_, 2021
 - "AoI Scheduling with Maximum Thresholds", published in _IEEE INFOCOM_, 2020
