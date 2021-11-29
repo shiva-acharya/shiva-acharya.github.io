@@ -27,14 +27,15 @@ I also closely collaborate with my colleagues to work on Age of Information, MIM
 
 ## **Co-authored**
 
-- "GPF+: A novel ultrafast GPU-based proportional fair scheduler for 5G NR", published in _IEEE/ACM Transactions on Networking_, 2021, to appear
-- "On scheduling with AoI violation tolerance", published in _IEEE INFOCOM_, 2021
-- "Minimizing AoI in a 5G-based IoT network under varying channel conditions", published in _IEEE Internet of Things Journal_, 2021
-- "AoI Scheduling with Maximum Thresholds", published in _IEEE INFOCOM_, 2020
-- "GPU: A new enabling platform for real-time optimization in wireless networks", published in _IEEE Network_, 2020
-- "A deep-reinforcement-learning-based approach to dynamic eMBB/URLLC multiplexing in 5G NR", published in _IEEE Internet of Things Journal_, 2020
-- "Minimizing age of information under general models for IoT data collection", published in _IEEE Transactions on Network Science and Engineering_, 2019
-- "A general model for minimizing age of information at network edge", published in _IEEE INFOCOM_, 2019
-- "To cancel or not to cancel: Exploiting interference signal strength in the eigenspace for efficient MIMO DoF utilization", published in _IEEE INFOCOM_, 2019
-- "GPF: A GPU-based design to achieve $\sim$100 $\mu$s scheduling for 5G NR", published in _ACM MobiCom_, 2018
-- "A self-adaptive algorithm of carrier frequency offset estimate in wireless network", published in _IEEE ICCWAMTIP_, 2015
+- "On DoF Conservation in MIMO Interference Cancellation based on Signal Strength in the Eigenspace," published in _IEEE Transactions on Mobile Edge Computing_, 2021, to appear
+- "GPF+: A novel ultrafast GPU-based proportional fair scheduler for 5G NR," published in _IEEE/ACM Transactions on Networking_, 2021, to appear
+- "On scheduling with AoI violation tolerance," published in _IEEE INFOCOM_, 2021
+- "Minimizing AoI in a 5G-based IoT network under varying channel conditions," published in _IEEE Internet of Things Journal_, 2021
+- "AoI Scheduling with Maximum Thresholds," published in _IEEE INFOCOM_, 2020
+- "GPU: A new enabling platform for real-time optimization in wireless networks," published in _IEEE Network_, 2020
+- "A deep-reinforcement-learning-based approach to dynamic eMBB/URLLC multiplexing in 5G NR," published in _IEEE Internet of Things Journal_, 2020
+- "Minimizing age of information under general models for IoT data collection," published in _IEEE Transactions on Network Science and Engineering_, 2019
+- "A general model for minimizing age of information at network edge," published in _IEEE INFOCOM_, 2019
+- "To cancel or not to cancel: Exploiting interference signal strength in the eigenspace for efficient MIMO DoF utilization," published in _IEEE INFOCOM_, 2019
+- "GPF: A GPU-based design to achieve $\sim$100 $\mu$s scheduling for 5G NR," published in _ACM MobiCom_, 2018
+- "A self-adaptive algorithm of carrier frequency offset estimate in wireless network," published in _IEEE ICCWAMTIP_, 2015
