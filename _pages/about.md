@@ -16,8 +16,8 @@ I received the B.E. degree (Honors Program) from Southeast University, Nanjing, 
 
 Highlights
 ======
-In 2019, I received the Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program. 
+In 2019, I received the **Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program**. 
 
-In 2010, I was admitted to Southeast University at the age of 15, which is 3 years earlier than the normal case. I'm sincerely grateful to my parents, friends, and teachers for their supports and for helping me overcome numerous challenges. 
+In 2010, I was **admitted to Southeast University at the age of 15**, which is 3 years earlier than the normal case. I'm sincerely grateful to my parents, friends, and teachers for their supports and for helping me overcome numerous challenges. 
 
 At Southeast University, I was in [Chien-Shiung Wu College](https://wjx.seu.edu.cn/wjxen/), an honored college named after our famous alumna [Chien-Shiung Wu](https://en.wikipedia.org/wiki/Chien-Shiung_Wu), a Chinese-American particle and experimental physicist. After two years of Honorary Intensive Class in Informatics Track, I chose Information Engineering as my major and worked on wireless communication until today.
