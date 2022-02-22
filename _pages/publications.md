@@ -11,7 +11,7 @@ author_profile: true
 
 ## **Summary** 
 
-My research interests are algorithm design and implementation for wireless networks. I’m particularly interested in the following two aeras:
+My research interests are algorithm design and implementation for wireless networks. I’m particularly interested in the following two areas:
 - Handling uncertainty: Provide probabilistic guanratees in presense of random network parameters without distribution knowledge. E.g., Provide probabilistic interference threshold guarantee using the mean and covariance of random channcel gains.
 - Real-time algorithm: Meet wall-clock timing requirement. E.g., 125 $\mu$s (one TTI in 5G-NR numerology 3) timing requiremnt for a scheduling and power control algoriothm.
 
