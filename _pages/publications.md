@@ -27,7 +27,8 @@ I also closely collaborate with my colleagues to work on Age of Information, MIM
 
 ## **Co-authored**
 
-- “Optimal channel allocation in the CBRS band with shipborne radar incumbents," _IEEE DySBAN, 2021
+- "Scheduling With Age of Information Guarantee," _IEEE/ACM Transactions on Networking_, 2022
+- “Optimal channel allocation in the CBRS band with shipborne radar incumbents," _IEEE DySBAN_, 2021
 - "On DoF conservation in MIMO interference cancellation based on signal strength in the eigenspace," published in _IEEE Transactions on Mobile Edge Computing_, 2021
 - "GPF+: A novel ultrafast GPU-based proportional fair scheduler for 5G NR," published in _IEEE/ACM Transactions on Networking_, 2021
 - "On scheduling with AoI violation tolerance," published in _IEEE INFOCOM_, 2021
