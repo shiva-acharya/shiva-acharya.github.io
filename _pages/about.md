@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Shaoran Li, a fifth-year Ph.D. student at ECE Department, Virginia Tech supervised by [Dr. Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html). I belong to the [Complex Networks and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/index.html). Feel free to contact me if you have any questions.
+Hello, I'm Shaoran Li, a fifth-year Ph.D. student at ECE Department, Virginia Tech supervised by [Prof. Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html). I belong to the [Complex Networks and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/index.html). Feel free to contact me if you have any questions.
 
 About me
 ======
