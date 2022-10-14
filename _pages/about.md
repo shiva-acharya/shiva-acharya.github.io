@@ -13,7 +13,9 @@ Hello, I'm Shaoran Li, thanks for checking my personal website. Currently I'm a 
 
 About me
 ======
-I received my Ph.D. degree from ECE Department, Virginia Tech under the supervision of [Prof. Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html) in 2022. My research interests are algorithm design and implementation for wireless networks, with a focus on network uncertainty. Check our group [Complex Networks and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/index.html) for more exciting works. Before joining VT, I received the B.E. degree (Honors Program) from Southeast University, Nanjing, China, in 2014 and the M.S. degree from the Beijing University of Posts and  Telecommunications (BUPT), Beijing, China, in 2017. 
+I received my Ph.D. degree from ECE Department, Virginia Tech under the supervision of [Prof. Tom Hou](https://www.cnsr.ictas.vt.edu/THou.html) in 2022. My research interests are algorithm design and implementation for wireless networks, with a focus on network uncertainty. Check our group [Complex Networks and Security Research (CNSR) Lab](https://www.cnsr.ictas.vt.edu/index.html) for more exciting works. 
+
+Before joining VT, I received the B.E. degree (Honors Program) from Southeast University, Nanjing, China, in 2014 and the M.S. degree from the Beijing University of Posts and  Telecommunications (BUPT), Beijing, China, in 2017. 
 
 Highlights
 ======
