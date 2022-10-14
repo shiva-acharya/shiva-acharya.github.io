@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Shaoran Li, thanks for checking my personal website. Currently I'm a Senior Software Engineer at NVIDIA Corp., working on 5G/next-G wireless networks. Feel free to contact me if you have any questions.
+Hello, I'm Shaoran Li, thanks for checking my personal website. Currently I'm a Senior Software Engineer at NVIDIA, working on 5G/next-G wireless networks. Feel free to contact me if you have any questions.
 
 
 About me
