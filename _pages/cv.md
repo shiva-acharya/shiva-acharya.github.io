@@ -12,7 +12,7 @@ Download my full CV [here](https://shaoranli.github.io/files/ShaoranLi_CV.pdf)
 
 ### Education
 
-* Ph.D. Student, Electrical Engineering, Virignia Tech, Blacksburg, VA, USA, Aug. 2017 - Present
+* Ph.D., Electrical Engineering, Virignia Tech, Blacksburg, VA, USA, Aug. 2017 - Oct. 2022
 * M.S., Information and Communication Engineering, Beijing University of Posts and Telecommunications (BUPT), Beijing, China, Sept. 2014 - Apr. 2017
 * B.E. (Honors Program), Information Engineering, Southeast University, Nanjing, China, Spet. 2010 - June 2014
 
