@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello, I'm Shaoran Li, thanks for checking my personal website. Currently I'm a Senior Software Engineer at NVIDIA, working on 5G/next-G wireless networks. Feel free to contact me if you have any questions.
+Hello, I'm Shaoran Li (李少冉), thanks for checking my personal website. Currently I'm a Senior Software Engineer at NVIDIA Corporation, working on [NVIDIA Aerial](https://developer.nvidia.com/aerial-sdk), a GPU-Accelerated 5G Virtual Radio Access Networks (vRAN). Feel free to contact me if you have any questions.
 
 
 About me
