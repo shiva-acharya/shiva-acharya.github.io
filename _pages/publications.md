@@ -59,7 +59,7 @@ I also closely collaborate with my colleagues to work on Age of Information (AoI
 
 - **[C15]** S. Acharya, **S. Li**, N. Jiang, Y. Wu, Y. T. Hou, W. Lou and W. Xie, "[Mitra: An O-RAN based Real-Time Solution for Coexistence between General and Priority Users in CBRS](https://ieeexplore.ieee.org/document/10228973)," *Proc. IEEE MASS, pp. 295-303*, Toronto, Canada, Sept. 2023.
 
-- **[C14]** C. Li, **S. Li**, Q. Liu, Y.T. Hou, W. Lou and S. Kompella, "[Eywa: A General Approach for Scheduler Design in AoI Optimization]()," in *Proc. IEEE INFOCOM, pp. 1-9*, Virtual Conference, May 2023.
+- **[C14]** C. Li, **S. Li**, Q. Liu, Y.T. Hou, W. Lou and S. Kompella, "[Eywa: A General Approach for Scheduler Design in AoI Optimization](https://ieeexplore.ieee.org/document/10228973)," in *Proc. IEEE INFOCOM, pp. 1-9*, Virtual Conference, May 2023.
 
 - **[C13]** **S. Li**, N. Jiang, Y. Chen, Y.T. Hou, W. Lou and W. Xie, "[D$^2$BF--Data-Driven Beamforming in MU-MIMO with Channel Uncertainty](https://ieeexplore.ieee.org/document/9796930)," in *Proc. IEEE INFOCOM, pp. 120-129*,  Virtual Conference, May 2022.
 
