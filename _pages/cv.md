@@ -26,12 +26,15 @@ Download my full CV [here](https://shaoranli.github.io/files/ShaoranLi_CV.pdf)
 
 ### Honors and Awards
 
-* Prasad Scholarship <span style="float:right;"> Aug. 2019-May 2020
-* Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program <span style="float:right;"> Dec. 2019
+* Distinguished Member of INFOCOM 2024 Technical Program Committee <span style="float:right;"> Feb. 2024
+* Fred W. Ellersick MILCOM Award for the Best Paper in the unclassified technical program <span style="float:right;"> Nov. 2019
+* Prasad Scholarship <span style="float:right;"> Aug. 2019
+* Student Travel Grant, ACM MobiHoc <span style="float:right;"> July 2019
 * Silver Medal Award in the First 5G Algorithm Innovation Competition by the InnovateAsia FPGA Design Contest (4/184) <span style="float:right;"> Dec. 2015
 * Third Prize in National Postgraduate Mathematics Contest in Modeling <span style="float:right;"> Nov. 2015
 * Top Ten Annual Individuals <span style="float:right;"> Dec. 2012
-  
+* Third Prize in National Undergraduate Mathematics Contest in Modeling  <span style="float:right;"> Oct. 2012
+
 ### Professional Services
 
 - Technical Program Committee Member of IEEE ICC 2024 <span style="float:right;"> Nov. 2023
