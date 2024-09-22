@@ -7,41 +7,41 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Shaoran Li / Personal Website"
+title                    : "Shiva Acharya / Personal Website"
 title_separator          : "-"
-name                     : &name "Shaoran Li (李少冉)"
+name                     : &name "Shiva Acharya"
 description              : &description "personal description"
-url                      : https://shaoranli.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://shiva-acharya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ShaoranLi/shaoranli.github.io"
+repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "photo_suits.jpg"
-  name             : "Shaoran Li (李少冉）"
+  avatar           : ""
+  name             : "Shiva Acharya"
   pronouns         : # example: "she/her"  
-  bio              : "Ph.D., Senior Software Engineer at NVIDIA Corp"
-  location         : "Bryan, TX"
-  employer         : # "NVIDIA Corp"
+  bio              : "Graduate Research Assistant"
+  location         : "Blacksburg, VA, USA"
+  employer         : # "Virginia Tech"
   uri              : # URL
-  email            : "shaoran@vt.edu" 
+  email            : "acharyashiva@vt.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=utvZzaAAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=t0vfvOkAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0002-2648-5478"
-  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  orcid            : 
+  pubmed           : # 
   researchgate     : # URL
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "/ShaoranLi"
+  github           : "/shiva-acharya"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
