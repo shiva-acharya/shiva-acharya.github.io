@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Shiva Acharya"
 description              : &description "personal description"
 url                      : https://shiva-acharya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : "/shiva-acharya.github.io" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
