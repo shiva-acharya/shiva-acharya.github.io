@@ -12,7 +12,7 @@ title_separator          : "-"
 name                     : &name "Shiva Acharya"
 description              : &description "personal description"
 url                      : https://shiva-acharya.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/shiva-acharya.github.io" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : ""
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -41,7 +41,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "/shiva-acharya"
+  github           : "shiva-acharya"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
