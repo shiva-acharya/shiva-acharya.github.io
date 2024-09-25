@@ -1,10 +1,12 @@
 {% include base_path %}
 
-<meta charset="utf-8">
+<meta name="google-site-verification" content="mHWNa63eUV9hxe4BdBkfIzKkT8YJAsfAEc4Wqrc8DTA" />
+
 
 {% include seo.html %}
 
-<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
+<link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"
+  type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
 <!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
