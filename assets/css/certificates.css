@@ -1,0 +1,22 @@
+#certificates-section .certificate-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+}
+
+#certificates-section .certificate-gallery a {
+    text-align: center;
+    text-decoration: none;
+}
+
+#certificates-section .certificate-thumbnail {
+    width: 200px;
+    height: auto;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+}
+
+#certificates-section .certificate-thumbnail:hover {
+    transform: scale(1.05);
+}
